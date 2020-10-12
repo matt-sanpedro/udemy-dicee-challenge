@@ -10,6 +10,10 @@
 
 }
 
+.win {
+  width: 15%;
+}
+
 body {
   background-color: #393E46;
 }
